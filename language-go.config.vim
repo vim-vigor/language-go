@@ -1,3 +1,6 @@
+" Enable go linters
+let g:ale_linters.markdown = ['gofmt']
+
 " Highlight function names.
 let g:go_highlight_functions = 1
 
