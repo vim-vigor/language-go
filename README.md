@@ -12,7 +12,7 @@ exist.
 ## Plugins
 
 * fatih/vim-go
-* zchee/deoplete-go
+* ncm2/ncm2-go
 
 ## Keymaps
 

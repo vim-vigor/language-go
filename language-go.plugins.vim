@@ -1,2 +1,2 @@
 Plug 'fatih/vim-go', { 'do': ':GoInstallBinaries' }
-Plug 'zchee/deoplete-go', { 'do': 'make' }
+Plug 'ncm2/ncm2-go'
